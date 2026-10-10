@@ -39,7 +39,7 @@ Everything you'll usually change is at the bottom of the `<script>` in `index.ht
 | `planDraft` | `true` shows a "Draft" chip on the study plan. Set it to `false` once the plan is final |
 | `whatsapp`, `chat`, `email`, `register`, `url` | Links. They are also written into the HTML, so they work without JavaScript. If you change one, change both places |
 | `shareText` | WhatsApp share message (the page URL is added after it) |
-| `cfAnalyticsToken` | Cloudflare Web Analytics token. It loads only on di26.pharmakaksha.com. `""` (the current value) turns it off |
+| `cfAnalyticsToken` | Cloudflare Web Analytics token. It loads only on di26.pharmakaksha.com. `""` turns it off |
 
 ### `MILESTONES` and `PLAN`
 
